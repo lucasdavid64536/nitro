@@ -1,4 +1,4 @@
-const AUTH = require("./auth");
+const AUTH = require("./Setup/auth.js");
 const PREFIX = "n!";
 
 module.exports = {
